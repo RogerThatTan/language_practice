@@ -1,0 +1,16 @@
+h1{
+    color: blue;
+    background-color: rgb(44, 97, 81);
+    text-decoration: line-through;
+}
+
+body{
+
+    background-color: rgb(124, 117, 192);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+button{
+    background: lightcoral;
+    color: black;
+}
