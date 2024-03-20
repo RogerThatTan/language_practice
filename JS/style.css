@@ -1,6 +1,6 @@
-h1{
+.heading-class{
     color: blue;
-    background-color: rgb(44, 97, 81);
+    background-color: rgb(85, 150, 130);
     text-decoration: line-through;
 }
 
