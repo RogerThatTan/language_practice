@@ -38,4 +38,4 @@ console.log(radius);
 console.log(isFollow);
 console.log(name);
 console.log(typeof name);
-//console.log(name="Anika"); 
+console.log(name="Anika"); 

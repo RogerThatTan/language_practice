@@ -14,3 +14,24 @@ button{
     background: lightcoral;
     color: black;
 }
+
+#box{
+        height: 100px;
+        width:  auto;
+        border: 1px solid black;
+        margin: 5px;
+        text-align: center;
+        background-color: grey;
+}
+
+.content{
+    color: white;
+    background-color: black;
+    text-align: center;
+    padding: 10px;
+    margin: 10px;
+}
+
+.newClass{
+    background-color: lightgreen;
+}
