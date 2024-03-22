@@ -15,7 +15,7 @@ button{
     color: black;
 }
 
-#box{
+.box{
         height: 100px;
         width:  auto;
         border: 1px solid black;
@@ -26,7 +26,7 @@ button{
 
 .content{
     color: white;
-    background-color: black;
+    background-color: rgb(73, 72, 129);
     text-align: center;
     padding: 10px;
     margin: 10px;
@@ -34,4 +34,14 @@ button{
 
 .newClass{
     background-color: lightgreen;
+}
+
+.dark{
+    background-color: darkgrey;
+    color: white;
+}
+
+.light{
+    background-color: white;
+    color: black;
 }
